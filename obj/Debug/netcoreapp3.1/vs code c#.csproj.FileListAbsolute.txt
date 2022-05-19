@@ -1,0 +1,14 @@
+C:\Users\AMD\Desktop\vs code c#\bin\Debug\netcoreapp3.1\vs code c#.exe
+C:\Users\AMD\Desktop\vs code c#\bin\Debug\netcoreapp3.1\vs code c#.deps.json
+C:\Users\AMD\Desktop\vs code c#\bin\Debug\netcoreapp3.1\vs code c#.runtimeconfig.json
+C:\Users\AMD\Desktop\vs code c#\bin\Debug\netcoreapp3.1\vs code c#.runtimeconfig.dev.json
+C:\Users\AMD\Desktop\vs code c#\bin\Debug\netcoreapp3.1\vs code c#.dll
+C:\Users\AMD\Desktop\vs code c#\bin\Debug\netcoreapp3.1\vs code c#.pdb
+C:\Users\AMD\Desktop\vs code c#\obj\Debug\netcoreapp3.1\vs code c#.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\vs code c#\obj\Debug\netcoreapp3.1\vs code c#.AssemblyInfo.cs
+C:\Users\AMD\Desktop\vs code c#\obj\Debug\netcoreapp3.1\vs code c#.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\vs code c#\obj\Debug\netcoreapp3.1\vs code c#.dll
+C:\Users\AMD\Desktop\vs code c#\obj\Debug\netcoreapp3.1\vs code c#.pdb
+C:\Users\AMD\Desktop\vs code c#\obj\Debug\netcoreapp3.1\vs code c#.genruntimeconfig.cache
+C:\Users\AMD\Desktop\vs code c#\obj\Debug\netcoreapp3.1\vs code c#.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\vs code c#\obj\Debug\netcoreapp3.1\vs code c#.GeneratedMSBuildEditorConfig.editorconfig
