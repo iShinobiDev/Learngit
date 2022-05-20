@@ -7,6 +7,7 @@ namespace vs_code_c_
         static void Main(string[] args)
         {
             Console.Write("HEllo!");
+            Console.WriteLine("Guts");
         }
     }
 }
