@@ -6,7 +6,8 @@ namespace vs_code_c_
     {       
         static void Main(string[] args)
         {
-            Console.WriteLine("New Line !");
+            Console.Write("Hello World !");
+            Console.WriteLine("Hola!");
         }
     }
 }
