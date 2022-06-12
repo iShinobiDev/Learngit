@@ -9,6 +9,7 @@ namespace vs_code_c_
             Console.Write("Hello World !");
             Console.WriteLine("Hola!");
             Console.WriteLine("New Line !");
+            Console.Write("hi");
         }
     }
 }
